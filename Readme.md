@@ -5,7 +5,7 @@
 - This program activate in Chrome extension program
 
 # 특징
-- 데스크탑 및 노트북에서 유튜브를 볼경우 스킵 가능한 광고를 대신 넘겨드립니다.
+- 데스크탑 및 노트북에서 유튜브를 볼 경우 스킵 가능한 광고를 대신 넘겨드립니다.
 
 # Feature
 - When you run youtube on Desktop PC or Laptop, this program can skip AD which is skipable
