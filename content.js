@@ -1,6 +1,8 @@
 // 광고 스킵 버튼을 클릭하는 함수
 function clickSkipButton() {
-  const skipButton = document.querySelector(".ytp-ad-skip-button.ytp-button");
+  const skipButton = document.querySelector(
+    ".ytp-ad-skip-button-modern.ytp-button"
+  );
   if (skipButton) {
     skipButton.click();
   }
@@ -10,4 +12,3 @@ function clickSkipButton() {
 window.addEventListener("load", () => {
   setInterval(clickSkipButton, 5000);
 });
-

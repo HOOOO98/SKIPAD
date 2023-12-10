@@ -1,19 +1,19 @@
 {
-    "name": "SKIPAD",
-    "version": "1.0",
-    "manifest_version": 3,
-    "description": "유튜브 광고를 5초후 자동으로 건너뛰는 확장 프로그램입니다.",
-    "content_scripts": [
-      {
-        "matches": ["https://www.youtube.com/*"],
-        "js": ["content.js"]
-      }
-    ],
-    "icons": {
-      "16": "icon16.png",
-      "32": "icon32.png",
-      "48": "icon48.png",
-      "128": "icon128.png",
-      "256": "icon256.png"
+  "name": "SKIPAD",
+  "version": "1.0.1",
+  "manifest_version": 3,
+  "description": "유튜브 광고를 5초후 자동으로 건너뛰는 확장 프로그램입니다.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
     }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png",
+    "256": "icon256.png"
   }
+}
