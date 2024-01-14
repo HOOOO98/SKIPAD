@@ -5,7 +5,7 @@
 - When you run youtube on Desktop PC or Laptop, this program can skip AD which is skipable
 
 # Install link(설치 링크)
-[![image](https://github.com/HOOOO98/SKIPAD/assets/120024673/9da48c22-b3e0-4966-bd2f-40ef0943a900>
+[![image](https://github.com/HOOOO98/SKIPAD/assets/120024673/9da48c22-b3e0-4966-bd2f-40ef0943a900
 )](https://chrome.google.com/webstore/detail/skipad/ilobgbpbfgcffkblhhekdnigpainilnj)
 
 # Presentation link (발표 링크)
