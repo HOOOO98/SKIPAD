@@ -1,6 +1,6 @@
 {
   "name": "SKIPAD",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 3,
   "description": "유튜브 광고를 5초후 자동으로 건너뛰는 확장 프로그램입니다.",
   "content_scripts": [
